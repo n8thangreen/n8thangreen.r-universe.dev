@@ -1,1 +1,14 @@
-
+[
+    {
+        "package": "NMA",
+        "url": "https://github.com/ICON-in-R/NMA"
+    },
+    {
+        "package": "blendR",
+        "url": "https://github.com/StatisticsHealthEconomics/blendR"
+    },
+    {
+        "package": "multimcm",
+        "url": "https://github.com/StatisticsHealthEconomics/multimcm"
+    }
+]
