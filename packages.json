@@ -1,14 +1,18 @@
 [
     {
+        "package": "simcovariates",
+        "url": "https://github.com/n8thangreen/simcovariates"
+    },
+    {
         "package": "NMA",
-        "url": "https://github.com/ICON-in-R/NMA"
+        "url": "https://github.com/icon-in-r/NMA"
     },
     {
         "package": "blendR",
-        "url": "https://github.com/StatisticsHealthEconomics/blendR"
+        "url": "https://github.com/statisticshealtheconomics/blendR"
     },
     {
         "package": "multimcm",
-        "url": "https://github.com/StatisticsHealthEconomics/multimcm"
+        "url": "https://github.com/statisticshealtheconomics/multimcm"
     }
 ]
